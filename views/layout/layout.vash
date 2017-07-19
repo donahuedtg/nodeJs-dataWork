@@ -1,0 +1,3 @@
+@model.title
+@html.block('content')
+@html.block('footer')
